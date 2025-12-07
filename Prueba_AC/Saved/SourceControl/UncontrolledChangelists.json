@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/PlayerStart_Blueprint.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/4K/059U661VYTN9Z61OWR21Q0.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/Idle02Anim_Blueprint.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M8/1IEMIYCN5Q0APKM4RWUBQA.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/3E/23TKI8FBTEEG2VVPJWTQTU.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyForwardAnim_Blueprint.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HQ/WDOOT0GVRN5IH70XO1EKL6.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Skeleton.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RB/QA00OMZAE682ML821UAZZB.uasset",
+				"C:/Users/Luna/Desktop/Videojuegos/4Curso/Dispositivos y Formatos/Pr_AlternativeController/Prueba_AC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
+			]
+		}
+	]
+}
